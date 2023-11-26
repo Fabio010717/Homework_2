@@ -1,8 +1,0 @@
-prefix=/home/antonio/Scrivania/RoboticsLab/homework_2/catkin_ws/install
-
-Name: iiwa_moveit
-Description: Description of iiwa_moveit
-Version: 1.4.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
